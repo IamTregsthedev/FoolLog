@@ -1,7 +1,7 @@
-alert(Your Coumpter has seemed to find risks. Standby Open your console log ctrl + shift + J!");
-wait();
-wait();
-wait();
+alert(Your Coumpter has seemed to find risks. Standby Open your console log ctrl + shift + J!")
+wait()
+wait()
+wait()
 
       
       var risk = Math.random();
