@@ -1,0 +1,7 @@
+alert("Your PC is being hacked! Press ctrl + Shift + J")
+console.warn("We are Fighting the Virus, Please standby")
+wait()
+console.error("Warning, Call 000-000-00000, To Get Your PC Fixed. IT's In Cirtcal error!")
+wait()
+alert("Your PC has been comprised!")
+wait()
